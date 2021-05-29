@@ -292,14 +292,14 @@ textarea.materialize-textarea:focus:not([readonly]) {
 .navbar-top .site-brand {
 	text-align: center;
 	display: inline-block;
-	background: #fff;
+	background: #f0f2f1;
 	height: 60px;
 }
 
 .navbar-top .triangle-border {
 	width: 0;
 	height: 0;
-	border-top: 60px solid #fff;
+	border-top: 60px solid #f0f2f1;
 	border-right: 35px solid transparent;
 	display: inline-block;
 	float: left;
