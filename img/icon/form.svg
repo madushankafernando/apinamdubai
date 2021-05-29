@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="195" viewBox="0 0 200 195">
+  <g id="form" transform="translate(0 -2)">
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="75" height="16.656" transform="translate(91.656 122.344)" fill="#66bb6a"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="133.343" height="16.656" transform="translate(33.344 61)" fill="#66bb6a"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="133.343" height="16.656" transform="translate(33.344 93)" fill="#66bb6a"/>
+    <path id="Path_23" data-name="Path 23" d="M175,2H25A25,25,0,0,0,0,27V172a25,25,0,0,0,25,25H175a25,25,0,0,0,25-25V27A25,25,0,0,0,175,2Zm8.344,123.5V172A8.375,8.375,0,0,1,175,180.344H25A8.375,8.375,0,0,1,16.656,172V27A8.375,8.375,0,0,1,25,18.656H175A8.375,8.375,0,0,1,183.344,27v98.5Z" fill="#66bb6a"/>
+  </g>
+</svg>
